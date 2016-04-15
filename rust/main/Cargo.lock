@@ -1,0 +1,11 @@
+[root]
+name = "main"
+version = "0.1.0"
+dependencies = [
+ "lagrange 0.1.0",
+]
+
+[[package]]
+name = "lagrange"
+version = "0.1.0"
+
