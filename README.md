@@ -1,6 +1,6 @@
-## Interpolation algorithms
+# Interpolation algorithms
 
-# Lagrange:
+## Lagrange:
 
 - Languages:
   - Rust: See rust/README.md
