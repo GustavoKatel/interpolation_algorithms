@@ -5,3 +5,4 @@ authors = ["Gustavo Sampaio <gbritosampaio@gmail.com>"]
 
 [dependencies]
 lagrange = { path = "../lagrange" }
+rand = "0.3"
